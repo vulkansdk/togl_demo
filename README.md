@@ -30,7 +30,7 @@ g++ -std=c++17 main/main.cpp src/glad.c include/tiny_gltf/tiny_gltf.cc include/i
 MIT License!
 
 
-Copyright (c) 2025 theurg1st
+Copyright (c) 2025 vulkansdk
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -52,5 +52,5 @@ SOFTWARE.
 ```
 ## Authors
 
-- [@theurg1st](https://www.github.com/theurg1st)
+- [@vulkansdk](https://www.github.com/vulkansdk)
 
